@@ -1,3 +1,3 @@
-module go.mod
+module github.com/melswonder/Gopher_Dojo/ex00
 
-go 1.18
+go 1.21
